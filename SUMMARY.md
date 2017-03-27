@@ -5,4 +5,5 @@
 * [Namespaces](namespaces.md)
 * [Control Group](cgroups.md)
 * [Capabilities](capabilities.md)
+* [Best Practices](best-practices.md)
 
