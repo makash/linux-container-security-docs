@@ -21,3 +21,4 @@
 - http://subuser.org/
 - https://www.youtube.com/watch?v=BfFBDDQtSlk
 - https://www.coursera.org/learn/embedded-operating-system/lecture/UhvJm/module-3-lecture-2-linux-kernel-functions-and-advantages
+- https://sysadmincasts.com/episodes/14-introduction-to-linux-control-groups-cgroups
