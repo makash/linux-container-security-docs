@@ -11,5 +11,7 @@
     - [What are the Linux namespaces?](linux-namespaces.md)
 * [Control Group](cgroups.md)
 * [Capabilities](capabilities.md)
+* [Linux Security Modules](lsm.md)
+    - [AppArmor](apparmor.md)
 * [Best Practices](best-practices.md)
 * [References & Resources](references.md)
