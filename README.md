@@ -4,7 +4,10 @@ This book is an attempt to document the security features provided in a modern l
 
 # Topics:
 1. Linux Architecture
-    - 
+    - Kernel
+    - Memory management
+    - Protection Rings
+    - System Calls
 2. Kernel Features
     - seccomp-bpf
     - capablities
@@ -13,4 +16,4 @@ This book is an attempt to document the security features provided in a modern l
 3. Security modules
     - SELinux
     - Apparmor
-4. 
+4. Containers
