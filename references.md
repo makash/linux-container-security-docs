@@ -11,11 +11,13 @@
 - https://www.cloudsigma.com/manage-docker-resources-with-cgroups/
 - http://manpages.ubuntu.com/manpages/xenial/en/man7/apparmor.7.html
 - https://www.digitalocean.com/community/tutorials/how-to-create-an-apparmor-profile-for-nginx-on-ubuntu-14-04
+- https://www.kernel.org/doc/Documentation/security/LSM.txt
 
 
 ### Resources
 - https://www.youtube.com/playlist?list=PLbzoR-pLrL6pq6qCHZUuhbXsTsyz1N1c0
 - https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
+- https://www.linux.com/learn/overview-linux-kernel-security-features
 - https://www.cl.cam.ac.uk/~lc525/files/Linux_Containers.pdf
 - https://docs.docker.com/engine/security/security/
 - https://mobyproject.org/
