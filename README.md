@@ -1,8 +1,5 @@
 # Introduction
 
-
-This book is an attempt to document all the things that are required for security in a modern linux distribution
-
 This book is an attempt to document the security features provided in a modern linux distribution
 
 # Topics:
