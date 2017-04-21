@@ -52,7 +52,7 @@ $ hostname
 $ uname
 
 
-$ docker run -it nginx sh
+$ docker run -it alpine sh
 # hostname
 
 # uname
