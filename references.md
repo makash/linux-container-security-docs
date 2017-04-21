@@ -17,6 +17,7 @@
 ### Resources
 - https://www.youtube.com/playlist?list=PLbzoR-pLrL6pq6qCHZUuhbXsTsyz1N1c0
 - https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
+- http://contained.af/
 - https://www.linux.com/learn/overview-linux-kernel-security-features
 - https://www.cl.cam.ac.uk/~lc525/files/Linux_Containers.pdf
 - https://docs.docker.com/engine/security/security/
@@ -31,3 +32,5 @@
 - https://speakerdeck.com/vpetersson/an-introduction-to-cgroups-and-cgroupspy
 - https://events.linuxfoundation.org/sites/events/files/slides/linux_kernel_security_linuxconeu2016.pdf
 - https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project
+- http://training.play-with-docker.com/
+- https://www.katacoda.com/
