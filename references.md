@@ -10,10 +10,6 @@
 - https://docs.oracle.com/cd/E37670_01/E75728/html/section_mf3_vb5_dq.html
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> abd3fa72dfd0c71992df941eada51f05a3ee293c
 ### Resources
 - https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
 - https://www.cl.cam.ac.uk/~lc525/files/Linux_Containers.pdf
@@ -22,9 +18,6 @@
 - https://github.com/linuxkit/linuxkit
 - http://wiki.apparmor.net/index.php/Main_Page
 - https://en.wikipedia.org/wiki/Seccomp
-<<<<<<< HEAD
 - http://subuser.org/
-=======
 - https://www.youtube.com/watch?v=BfFBDDQtSlk
 - https://www.coursera.org/learn/embedded-operating-system/lecture/UhvJm/module-3-lecture-2-linux-kernel-functions-and-advantages
->>>>>>> abd3fa72dfd0c71992df941eada51f05a3ee293c
