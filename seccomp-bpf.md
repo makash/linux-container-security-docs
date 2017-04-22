@@ -7,7 +7,9 @@ Seccomp-BPF is a more recent extension to seccomp, which allows filtering system
 
 ### How to call Seccomp-bpf?
 
+```
  #include <sys/prctl.h>
  #include <linux/seccomp.h>
  [...]
  prctl(PR_SET_SECCOMP, SECCOMP_MODE_FILTER, &bpf_prog)
+```
