@@ -6,14 +6,14 @@ This book is an attempt to document the security features provided in a modern l
 1. Linux Architecture
     - Kernel
     - Memory management
+    - Dirtycow Demo
     - Protection Rings
     - System Calls
-2. Kernel Features
+2. Containers
+3. Kernel Features
+    - namespaces
     - seccomp-bpf
     - capablities
-    - namespaces
     - cgroups
-3. Security modules
-    - SELinux
+4. Security modules
     - Apparmor
-4. Containers
