@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [About Us](about.md)
 * [Linux Architecture](linuxarch/index.md)
     - [Kernel](linuxarch/kernel.md)
     - [Memory Management](linuxarch/spaces.md)
