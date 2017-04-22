@@ -12,6 +12,7 @@
 - http://manpages.ubuntu.com/manpages/xenial/en/man7/apparmor.7.html
 - https://www.digitalocean.com/community/tutorials/how-to-create-an-apparmor-profile-for-nginx-on-ubuntu-14-04
 - https://www.kernel.org/doc/Documentation/security/LSM.txt
+- https://opensource.com/resources/what-are-linux-containers
 
 
 ### Resources
@@ -34,3 +35,5 @@
 - https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project
 - http://training.play-with-docker.com/
 - https://www.katacoda.com/
+- https://linuxcontainers.org/
+- https://www.youtube.com/watch?v=1qlLUf7KtAw
