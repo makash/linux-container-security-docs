@@ -9,11 +9,11 @@ This book is an attempt to document the security features provided in a modern l
     - Dirtycow Demo
     - Protection Rings
     - System Calls
-2. Kernel Features
+2. Containers
+3. Kernel Features
     - namespaces
     - seccomp-bpf
     - capablities
     - cgroups
-3. Security modules
+4. Security modules
     - Apparmor
-4. Containers
