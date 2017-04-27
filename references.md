@@ -40,3 +40,6 @@
 - https://www.youtube.com/watch?v=1qlLUf7KtAw
 - https://github.com/jessfraz/bane
 - https://www.youtube.com/watch?v=Cd4JU7qzYbE
+- https://wiki.gnome.org/Projects/SandboxedApps
+- https://github.com/projectatomic/bubblewrap
+- https://subgraph.com
